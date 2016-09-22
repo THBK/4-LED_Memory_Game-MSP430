@@ -9,3 +9,5 @@ constructive criticism and advice is very welcome!
 
 I would really recommend the course to anyone who thinks it sounds interesting, regardless of any previous experience with electronics or programming. I knew nothing going in, and managed to have great fun and learn a lot. 
 You can find the course at udemy.com/mcu_msp430, and with discount coupons you can get this 30- to 40-hour course for only €10 or so.
+
+A video demonstration of the game can be found here: https://www.youtube.com/watch?v=bPIh7aXfuGQ
